@@ -11,3 +11,9 @@ Steps Include
   
   The yearly data was analysed for three years and macro was enabled to loop through all worksheets in the workbook at once
   
+The output has been further analysed to give insights into: 
+  - The stock with the greatest volume traded during each year
+  - The Stock with the highest positive jump during the year
+  - The stock with the highest negative slide during the year
+  
+  
