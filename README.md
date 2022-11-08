@@ -25,4 +25,5 @@ The output has been further analysed to give insights into:
   Screenshot of 2019
   Screenshot of 2018
   VBA Code in file StockAnalysis.vbs which can be opened using VSCode/Xcode
-  ### <Please note the source file with inout data and the macro is too big to be uploaded here>
+  
+  ### Please note the source file with inout data and the macro is too big to be uploaded here
